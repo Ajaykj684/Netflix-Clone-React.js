@@ -1,0 +1,98 @@
+.main{
+    position: relative;
+}
+.boxx{
+position: absolute;
+width: 29rem;
+height: 43rem;
+margin-left: 33%;
+margin-top: 5rem;
+background-color: rgba(0, 0, 0, 0.822);
+}
+.loggo{
+    width:16rem;
+    height: 10rem;
+    position: absolute;
+}
+
+.theme{
+    background-color: rgba(0, 0, 0, 0.151);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.heading{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 800;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.signup{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    padding-left: 7rem;
+    padding-top: 7rem;
+}
+
+.inner{
+    width:100%;
+    height: 40px;
+    margin: 20px;
+   
+
+}
+.input{
+    width:22rem;
+    height: 40px;
+    margin-top: 1rem;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-bottom-color: transparent;
+    border-right-color: transparent;
+    outline-color: transparent;
+    border-radius: 3px;
+    background-color: rgb(85, 85, 85);
+    color: white;
+ }
+ .Butn{
+    width:22rem;
+    height: 50px;
+    margin-top: 35px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border-radius: 3px;
+    border: 0;
+    cursor: pointer;
+ }
+
+ .logbox{
+    margin-top: 8rem;
+    margin-left: 3rem;
+ }
+
+ .text{
+    color: rgba(255, 255, 255, 0.836);
+ }
+ .footertxt{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 60px;
+    padding-top: 15px;
+ }
+
+ .description1{
+        color: rgba(207, 207, 207, 0.603);
+        font-size: 20px;
+        line-height: 20px;
+        margin-top: 40px;
+}
+.now{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    padding-left: 6px;
+    
+}
